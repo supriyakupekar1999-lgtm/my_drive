@@ -1,0 +1,10 @@
+git init
+git status
+git add .
+git status
+git commit -m "uploaded first resume"
+git remote add origin https://github.com/supriyakupekar1999-lgtm/my_drive.git
+git branch 
+git branch -M main
+git push -u origin main
+git pull origin main
